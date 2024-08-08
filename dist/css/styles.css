@@ -127,6 +127,42 @@
   background-color: #CDCDCD;
 }
 
+.action {
+  margin-left: 20px;
+}
+
+.actionContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.actionContainer_card {
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+  padding: 3px 10px;
+}
+
+.red {
+  background-color: #A90000;
+}
+
+.gray {
+  background-color: #CDCDCD;
+  color: black;
+  font-weight: 600;
+}
+
+.darkBlue {
+  background-color: #2E4057;
+}
+
+.lightBlue {
+  background-color: #1C4FA7;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;

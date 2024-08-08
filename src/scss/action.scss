@@ -1,0 +1,39 @@
+@import '_variables';
+
+.action {
+    margin-left: 20px;
+}
+
+.actionContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+
+    
+        &_card {
+            background-color: blue;
+            color: white;
+            border-radius: 8px;
+            padding: 3px 10px;
+        }
+}
+
+.red{
+    background-color: $danger-color;
+}
+
+.gray{
+    background-color: $secondary-color;
+    color: black;
+    font-weight: 600;
+}
+
+.darkBlue{
+    background-color: $dark-color;
+}
+
+.lightBlue{
+    background-color: $info-color;
+}
