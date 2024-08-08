@@ -1,0 +1,49 @@
+@import '_variables';
+
+.tag {
+    margin-left: 20px;
+}
+
+.tagContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+
+    
+        &_card {
+            background-color: blue;
+            color: white;
+            border-radius: 100px;
+            padding: 3px 10px;
+        }
+}
+
+.red{
+    background-color: $danger-color;
+}
+
+.blue {
+    background-color: $info-color;
+}
+
+.purple {
+    background-color: $cancel-color;
+}
+
+.green {
+    background-color: $success-color;
+}
+
+.yellow {
+    background-color: $warning-color;
+}
+
+.waterBlue {
+    background-color: $dark-color;
+}
+
+.gray {
+    background-color: $secondary-color;
+}

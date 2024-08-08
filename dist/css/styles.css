@@ -81,6 +81,52 @@
   justify-content: center;
 }
 
+.tag {
+  margin-left: 20px;
+}
+
+.tagContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.tagContainer_card {
+  background-color: blue;
+  color: white;
+  border-radius: 100px;
+  padding: 3px 10px;
+}
+
+.red {
+  background-color: #A90000;
+}
+
+.blue {
+  background-color: #1C4FA7;
+}
+
+.purple {
+  background-color: #5D0089;
+}
+
+.green {
+  background-color: #00460F;
+}
+
+.yellow {
+  background-color: #874900;
+}
+
+.waterBlue {
+  background-color: #2E4057;
+}
+
+.gray {
+  background-color: #CDCDCD;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
