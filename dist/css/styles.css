@@ -229,13 +229,23 @@
   color: white;
   border-radius: 8px;
   padding: 3px 10px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: ease-in-out 0.1s;
+}
+.actionContainer_card:hover {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
 }
 
 .red {
   background-color: #A90000;
+  border: 2px solid #A90000;
 }
 
 .gray {
+  border: 2px solid #CDCDCD;
   background-color: #CDCDCD;
   color: black;
   font-weight: 600;
@@ -243,10 +253,12 @@
 
 .darkBlue {
   background-color: #2E4057;
+  border: 2px solid #2E4057;
 }
 
 .lightBlue {
   background-color: #1C4FA7;
+  border: 2px solid #1C4FA7;
 }
 
 body {
