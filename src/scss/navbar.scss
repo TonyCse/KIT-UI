@@ -76,6 +76,7 @@
                   &.button-blue {
                       background-color: $primary-color;
                       color: white;
+                      border: 1px solid $primary-color;
                       &:hover {
                         background-color: $light-color;
                         color:$dark-color;

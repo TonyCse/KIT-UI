@@ -71,6 +71,7 @@
 .kit .sidebar .sidebar-menu .button.button-blue {
   background-color: #0C62BF;
   color: white;
+  border: 1px solid #0C62BF;
 }
 .kit .sidebar .sidebar-menu .button.button-blue:hover {
   background-color: #E6ECF1;
