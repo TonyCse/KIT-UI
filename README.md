@@ -6,9 +6,17 @@ Kit UI du projet DVP.
 
 Voici un aperçu des composants inclus dans ce kit UI :
 
-([./images/navbar.PNG](https://github.com/TonyCse/KIT-UI/blob/main/images/navbar.PNG))
- <img src="https://github.com/TonyCse/KIT-UI/blob/main/images/navbar.PNG" alt="navbar"/>
-(./images/tags.PNG)
-(./images/actions.PNG)
-(./images/filtres.PNG)
-(./images/stats.PNG)
+## Navbar
+<img src="https://github.com/TonyCse/KIT-UI/blob/main/images/navbar.PNG" alt="navbar"/>
+
+## Tags
+<img src="https://github.com/TonyCse/KIT-UI/blob/main/images/tags.PNG" alt="tags"/>
+
+## Actions
+<img src="https://github.com/TonyCse/KIT-UI/blob/main/images/actions.PNG" alt="actions"/>
+
+## Filtres
+<img src="https://github.com/TonyCse/KIT-UI/blob/main/images/filtres.PNG" alt="filtres"/>
+
+## Stats
+<img src="https://github.com/TonyCse/KIT-UI/blob/main/images/stats.PNG" alt="stats"/>
