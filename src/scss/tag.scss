@@ -13,37 +13,52 @@
 
     
         &_card {
-            background-color: blue;
-            color: white;
+            border: 1px solid blue;
             border-radius: 100px;
             padding: 3px 10px;
+
+            font-weight: 600;
         }
 }
 
-.red{
-    background-color: $danger-color;
+.redTag{
+    border: 2px solid $danger-color;
+    color: $danger-color;
+
 }
 
-.blue {
-    background-color: $info-color;
+.blueTag {
+    border: 2px solid $info-color;
+    color: $info-color;
+
 }
 
-.purple {
-    background-color: $cancel-color;
+.purpleTag {
+    border: 2px solid $cancel-color;
+    color: $cancel-color;
+
 }
 
-.green {
-    background-color: $success-color;
+.greenTag {
+    border: 2px solid $success-color;
+    color: $success-color;
+
 }
 
-.yellow {
-    background-color: $warning-color;
+.yellowTag {
+    border: 2px solid $warning-color;
+    color: $warning-color;
+
 }
 
-.waterBlue {
-    background-color: $dark-color;
+.waterBlueTag {
+    border: 2px solid $dark-color;
+    color: $dark-color;
+
 }
 
-.gray {
-    background-color: $secondary-color;
+.grayTag {
+    border: 2px solid $secondary-color;
+    color: $secondary-color;
+
 }

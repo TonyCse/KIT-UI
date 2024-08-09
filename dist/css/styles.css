@@ -172,38 +172,45 @@
   flex-wrap: wrap;
 }
 .tagContainer_card {
-  background-color: blue;
-  color: white;
+  border: 1px solid blue;
   border-radius: 100px;
   padding: 3px 10px;
+  font-weight: 600;
 }
 
-.red {
-  background-color: #A90000;
+.redTag {
+  border: 2px solid #A90000;
+  color: #A90000;
 }
 
-.blue {
-  background-color: #1C4FA7;
+.blueTag {
+  border: 2px solid #1C4FA7;
+  color: #1C4FA7;
 }
 
-.purple {
-  background-color: #5D0089;
+.purpleTag {
+  border: 2px solid #5D0089;
+  color: #5D0089;
 }
 
-.green {
-  background-color: #00460F;
+.greenTag {
+  border: 2px solid #00460F;
+  color: #00460F;
 }
 
-.yellow {
-  background-color: #874900;
+.yellowTag {
+  border: 2px solid #874900;
+  color: #874900;
 }
 
-.waterBlue {
-  background-color: #2E4057;
+.waterBlueTag {
+  border: 2px solid #2E4057;
+  color: #2E4057;
 }
 
-.gray {
-  background-color: #CDCDCD;
+.grayTag {
+  border: 2px solid #CDCDCD;
+  color: #CDCDCD;
 }
 
 .action {
