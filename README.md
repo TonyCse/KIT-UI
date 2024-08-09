@@ -7,6 +7,7 @@ Kit UI du projet DVP.
 Voici un aperçu des composants inclus dans ce kit UI :
 
 ([./images/navbar.PNG](https://github.com/TonyCse/KIT-UI/blob/main/images/navbar.PNG))
+ <img src="[https://i.ibb.co/nwvYCTH/mobile-app.png](https://github.com/TonyCse/KIT-UI/blob/main/images/navbar.PNG)" alt="navbar"/>
 (./images/tags.PNG)
 (./images/actions.PNG)
 (./images/filtres.PNG)
